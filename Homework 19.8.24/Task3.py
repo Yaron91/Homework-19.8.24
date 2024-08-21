@@ -1,0 +1,2 @@
+print("Dictionaries are similar to sets in the way that keys in the dictionary are also unique items, and the dictionary cannot hold a key which is already exists.")
+print("Also, both dictionaries and sets are accessible based on the keys. In set the key is the set itself, no other keys just values.")
